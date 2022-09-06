@@ -14,7 +14,7 @@
   flex: 1;
 }
 .navbar{
-  background-color: rgb(39, 2, 39) !important;
+  background-color: rgb(160, 94, 149) !important;
   color: white;
 }
 .navbar-brand{
@@ -112,7 +112,7 @@
 }
 footer{
   height: 50px;
-  background-color: rgb(39, 2, 39) !important;
+  background-color: rgb(160, 94, 149) !important;
 }
 footer p{
   padding: 5px 0 ;
